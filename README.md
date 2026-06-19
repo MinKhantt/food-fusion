@@ -12,6 +12,21 @@ FoodFusion is a server-side rendered web application that serves as a recipe col
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="images/project/1.png" alt="Screenshot 1" width="100%"></td>
+    <td><img src="images/project/2.png" alt="Screenshot 2" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="images/project/3.png" alt="Screenshot 3" width="100%"></td>
+    <td><img src="images/project/4.png" alt="Screenshot 4" width="100%"></td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 ### Public Pages
@@ -76,6 +91,10 @@ cd food-fusion
 ### 2. Set Up the Database
 
 import `food_fusion.sql` file to MySQL Workbench
+
+### Entity-Relationship Diagram
+
+<img src="images/project/erd-diagram.png" alt="ER Diagram" width="100%">
 
 ### 3. Configure Database Connection
 

@@ -2,7 +2,7 @@
 
 Recipe Sharing & Food Community Platform
 
-NCC Level 5 Diploma in Computing — Back End Web Development Assignment
+This is my NCC Level 5 Back End Web Development assignment project.
 
 ---
 
